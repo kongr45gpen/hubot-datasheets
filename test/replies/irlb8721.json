@@ -1,0 +1,1605 @@
+{
+    "__class__": "SearchResponse",
+    "facet_results": {
+      "fields": {},
+      "queries": {}
+    },
+    "hits": 2,
+    "msec": 102,
+    "request": {
+      "__class__": "SearchRequest",
+      "facet": {
+        "fields": {},
+        "queries": []
+      },
+      "filter": {
+        "fields": {},
+        "queries": []
+      },
+      "limit": 1,
+      "q": "IRLB8721",
+      "sortby": "score desc",
+      "start": 0,
+      "stats": {}
+    },
+    "results": [
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "https://www.infineon.com",
+            "name": "Infineon",
+            "uid": "061fc7152bbdd1d8"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "element14 APAC",
+                    "uid": "f9e13cebd0892a26"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2009-04-22T17:45:48Z",
+                "last_updated": "2009-04-22T17:45:48Z",
+                "num_pages": 9,
+                "size_bytes": 273539
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/IRLB8721PBF-Infineon-datasheet-8326873.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "iiiC",
+                    "uid": "6a80af8a6456b947"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2009-04-22T17:45:48Z",
+                "last_updated": "2009-04-22T17:45:48Z",
+                "num_pages": 9,
+                "size_bytes": 249917
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/IRLB8721PBF-International-Rectifier-datasheet-14060373.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "https://www.infineon.com",
+            "name": "Infineon",
+            "uid": "8afb4ff1a359593c"
+          },
+          "mpn": "IRLB8721PBF",
+          "octopart_url": "https://octopart.com/irlb8721pbf-infineon-65874927",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_IRLB8721PBF-ND",
+              "eligible_region": "",
+              "factory_lead_days": 364,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 4245,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T12:52:29Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tube",
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "1.04000"
+                  ],
+                  [
+                    10,
+                    "0.92300"
+                  ],
+                  [
+                    100,
+                    "0.72920"
+                  ],
+                  [
+                    500,
+                    "0.56548"
+                  ],
+                  [
+                    1000,
+                    "0.44643"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=01ac00c&sid=459&ppid=65874927&vpid=232563087&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "IRLB8721PBF-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V36:1790_13889947",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2400,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T15:24:17Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.72200"
+                  ],
+                  [
+                    10,
+                    "0.65090"
+                  ],
+                  [
+                    100,
+                    "0.53020"
+                  ],
+                  [
+                    500,
+                    "0.44570"
+                  ],
+                  [
+                    1000,
+                    "0.40890"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0531864&sid=1106&ppid=65874927&vpid=473243835&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V99:2348_13889947",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2000,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T15:24:17Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.72200"
+                  ],
+                  [
+                    10,
+                    "0.65090"
+                  ],
+                  [
+                    100,
+                    "0.53020"
+                  ],
+                  [
+                    500,
+                    "0.44570"
+                  ],
+                  [
+                    1000,
+                    "0.40890"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=090e6b9&sid=1106&ppid=65874927&vpid=473243836&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 5226,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T17:48:29Z",
+              "moq": 164,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    164,
+                    "0.33120"
+                  ],
+                  [
+                    300,
+                    "0.31200"
+                  ],
+                  [
+                    1750,
+                    "0.29070"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=00a4399&sid=5489&ppid=65874927&vpid=401780001&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2454_4629333",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 650,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T23:09:48Z",
+              "moq": 30,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": "Tube",
+              "prices": {
+                "USD": [
+                  [
+                    30,
+                    "0.34500"
+                  ],
+                  [
+                    300,
+                    "0.32500"
+                  ],
+                  [
+                    1750,
+                    "0.29000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=098c7d5&sid=2454&ppid=65874927&vpid=416840022&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CA",
+                "has_ecommerce": true,
+                "homepage_url": "http://futureelectronics.com",
+                "id": "2454",
+                "name": "Future Electronics",
+                "uid": "e4032109c4f337c4"
+              },
+              "sku": "4629333"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2400,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T17:48:29Z",
+              "moq": 119,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    119,
+                    "0.53020"
+                  ],
+                  [
+                    500,
+                    "0.44570"
+                  ],
+                  [
+                    1000,
+                    "0.40890"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=024463f&sid=5489&ppid=65874927&vpid=487169098&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2000,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T17:48:29Z",
+              "moq": 110,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    110,
+                    "0.53020"
+                  ],
+                  [
+                    500,
+                    "0.44570"
+                  ],
+                  [
+                    1000,
+                    "0.40890"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0882e8f&sid=5489&ppid=65874927&vpid=492290375&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_942-IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 4722,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-02T18:30:44Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.85000"
+                  ],
+                  [
+                    10,
+                    "0.72500"
+                  ],
+                  [
+                    50,
+                    "0.72500"
+                  ],
+                  [
+                    100,
+                    "0.55700"
+                  ],
+                  [
+                    1000,
+                    "0.38900"
+                  ],
+                  [
+                    10000,
+                    "0.33200"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a040b3&sid=2401&ppid=65874927&vpid=262701882&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "942-IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4089_C1S327400144935",
+              "eligible_region": "",
+              "factory_lead_days": 1,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 930,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T13:09:45Z",
+              "moq": 10,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Bulk",
+              "prices": {
+                "CNY": [
+                  [
+                    10,
+                    "2.69000"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    10,
+                    "0.29300"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    10,
+                    "33.20000"
+                  ],
+                  [
+                    50,
+                    "25.80000"
+                  ],
+                  [
+                    100,
+                    "22.50000"
+                  ],
+                  [
+                    500,
+                    "18.60000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    10,
+                    "0.33900"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=07b172f&sid=13512&ppid=65874927&vpid=449412137&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "JP",
+                "has_ecommerce": true,
+                "homepage_url": "http://chip1stop.com/",
+                "id": "4089",
+                "name": "Chip One Stop Japan",
+                "uid": "90be55b4b6214379"
+              },
+              "sku": "C1S327400144935"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3261_7259322",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2275,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T11:02:07Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=001cbea&sid=10022&ppid=65874927&vpid=268916011&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rs-components.com",
+                "id": "3261",
+                "name": "RS Components",
+                "uid": "fbaa3ea0de71286d"
+              },
+              "sku": "7259322"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4617_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 673,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T13:12:23Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "0.78000"
+                  ],
+                  [
+                    5,
+                    "0.75000"
+                  ],
+                  [
+                    25,
+                    "0.68000"
+                  ],
+                  [
+                    100,
+                    "0.43000"
+                  ],
+                  [
+                    250,
+                    "0.37000"
+                  ],
+                  [
+                    1000,
+                    "0.33000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0f9b422&sid=14389&ppid=65874927&vpid=53285179&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.distrelec.com",
+                "id": "4617",
+                "name": "Distrelec",
+                "uid": "e53d2037de5236fa"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5192_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1090,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T06:01:29Z",
+              "moq": 10,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    10,
+                    "0.59000"
+                  ],
+                  [
+                    50,
+                    "0.35000"
+                  ],
+                  [
+                    200,
+                    "0.29000"
+                  ],
+                  [
+                    500,
+                    "0.27900"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0482a24&sid=15176&ppid=65874927&vpid=441922291&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.schukat.com",
+                "id": "5192",
+                "name": "Schukat",
+                "uid": "0783c2893aadd444"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "7667_TMOSP12591",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1950,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T01:31:35Z",
+              "moq": 50,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 50,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    50,
+                    "0.35055"
+                  ],
+                  [
+                    500,
+                    "0.34485"
+                  ],
+                  [
+                    2500,
+                    "0.33915"
+                  ],
+                  [
+                    5000,
+                    "0.33345"
+                  ]
+                ],
+                "USD": [
+                  [
+                    50,
+                    "0.41110"
+                  ],
+                  [
+                    500,
+                    "0.40440"
+                  ],
+                  [
+                    2500,
+                    "0.39780"
+                  ],
+                  [
+                    5000,
+                    "0.39110"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a894bf&sid=18993&ppid=65874927&vpid=261207415&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rutronik.com",
+                "id": "7667",
+                "name": "Rutronik",
+                "uid": "449e8194700b9759"
+              },
+              "sku": "TMOSP12591"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4782_161166",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1941,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T02:09:22Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "0.48000"
+                  ],
+                  [
+                    5,
+                    "0.47000"
+                  ],
+                  [
+                    10,
+                    "0.46000"
+                  ],
+                  [
+                    50,
+                    "0.43000"
+                  ],
+                  [
+                    100,
+                    "0.38000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a7a014&sid=14587&ppid=65874927&vpid=411185361&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://conrad.com",
+                "id": "4782",
+                "name": "Conrad",
+                "uid": "7914bc1e42dcaad3"
+              },
+              "sku": "161166"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 282,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1800,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T07:20:46Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "0.86190"
+                  ],
+                  [
+                    10,
+                    "0.77290"
+                  ],
+                  [
+                    25,
+                    "0.77090"
+                  ],
+                  [
+                    50,
+                    "0.76890"
+                  ],
+                  [
+                    100,
+                    "0.60690"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0ab0733&sid=15544&ppid=65874927&vpid=264726975&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10930_C1S327400144935",
+              "eligible_region": "",
+              "factory_lead_days": 5,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 673,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T14:16:05Z",
+              "moq": 5,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "CNY": [
+                  [
+                    5,
+                    "6.87000"
+                  ],
+                  [
+                    25,
+                    "6.58000"
+                  ],
+                  [
+                    50,
+                    "5.86000"
+                  ],
+                  [
+                    100,
+                    "5.20000"
+                  ],
+                  [
+                    500,
+                    "4.61000"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    5,
+                    "0.74600"
+                  ],
+                  [
+                    25,
+                    "0.71500"
+                  ],
+                  [
+                    50,
+                    "0.63700"
+                  ],
+                  [
+                    100,
+                    "0.56500"
+                  ],
+                  [
+                    500,
+                    "0.50000"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    5,
+                    "94.00000"
+                  ],
+                  [
+                    25,
+                    "90.20000"
+                  ],
+                  [
+                    50,
+                    "80.40000"
+                  ],
+                  [
+                    100,
+                    "71.30000"
+                  ],
+                  [
+                    500,
+                    "63.10000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    5,
+                    "0.86300"
+                  ],
+                  [
+                    25,
+                    "0.82700"
+                  ],
+                  [
+                    50,
+                    "0.73700"
+                  ],
+                  [
+                    100,
+                    "0.65400"
+                  ],
+                  [
+                    500,
+                    "0.57900"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=001b574&sid=27109&ppid=65874927&vpid=449411637&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "JP",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.chip1stop.com",
+                "id": "10930",
+                "name": "Chip One Stop Global",
+                "uid": "d2d317d9d1070114"
+              },
+              "sku": "C1S327400144935"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 364,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T23:48:10Z",
+              "moq": 2000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    2000,
+                    "0.29790"
+                  ],
+                  [
+                    4000,
+                    "0.28690"
+                  ],
+                  [
+                    6000,
+                    "0.27690"
+                  ],
+                  [
+                    10000,
+                    "0.26690"
+                  ],
+                  [
+                    20000,
+                    "0.26290"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0d452bc&sid=5822&ppid=65874927&vpid=259838096&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "819_1740783_GB",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3865,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T14:42:24Z",
+              "moq": 5,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "GBP": [
+                  [
+                    5,
+                    "0.54900"
+                  ],
+                  [
+                    25,
+                    "0.48500"
+                  ],
+                  [
+                    100,
+                    "0.42100"
+                  ],
+                  [
+                    250,
+                    "0.39700"
+                  ],
+                  [
+                    500,
+                    "0.37200"
+                  ],
+                  [
+                    1000,
+                    "0.29400"
+                  ],
+                  [
+                    5000,
+                    "0.28800"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=06bbb42&sid=819&ppid=65874927&vpid=262155370&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.farnell.com/",
+                "id": "819",
+                "name": "Farnell",
+                "uid": "58989d9272cd8b5f"
+              },
+              "sku": "1740783"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2402_10R3513_US",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 524,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T05:50:47Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.91900"
+                  ],
+                  [
+                    10,
+                    "0.79400"
+                  ],
+                  [
+                    100,
+                    "0.62600"
+                  ],
+                  [
+                    500,
+                    "0.56100"
+                  ],
+                  [
+                    1000,
+                    "0.45800"
+                  ],
+                  [
+                    2500,
+                    "0.41400"
+                  ],
+                  [
+                    10000,
+                    "0.40100"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0ba96ec&sid=2402&ppid=65874927&vpid=262217685&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.newark.com",
+                "id": "2402",
+                "name": "Newark",
+                "uid": "d294179ef2900153"
+              },
+              "sku": "10R3513"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3702_1740783_SG",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3567,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T03:56:37Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "SGD": [
+                  [
+                    1,
+                    "1.31000"
+                  ],
+                  [
+                    10,
+                    "1.12000"
+                  ],
+                  [
+                    100,
+                    "0.85300"
+                  ],
+                  [
+                    500,
+                    "0.75300"
+                  ],
+                  [
+                    1000,
+                    "0.59600"
+                  ],
+                  [
+                    2000,
+                    "0.58300"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0c77690&sid=11744&ppid=65874927&vpid=262125524&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.element14.com/",
+                "id": "3702",
+                "name": "element14 APAC",
+                "uid": "7f61ba6b5871aca6"
+              },
+              "sku": "1740783"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "14_70019227",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 1,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T09:42:15Z",
+              "moq": 1100,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1100,
+              "packaging": "Bulk",
+              "prices": {
+                "USD": [
+                  [
+                    1100,
+                    "0.83000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0d0d046&sid=14&ppid=65874927&vpid=450106573&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://alliedelec.com",
+                "id": "14",
+                "name": "Allied Electronics & Automation",
+                "uid": "f9e13cebd0892a26"
+              },
+              "sku": "70019227"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4523_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 364,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T06:28:27Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0a4523b&sid=14182&ppid=65874927&vpid=265646844&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+                "id": "4523",
+                "name": "Avnet Asia",
+                "uid": "8604430ebec955c3"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2410_2210626",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 4352,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T18:04:41Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.89000"
+                  ],
+                  [
+                    10,
+                    "0.75000"
+                  ],
+                  [
+                    100,
+                    "0.49000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=024056e&sid=2410&ppid=65874927&vpid=423174020&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.jameco.com",
+                "id": "2410",
+                "name": "Jameco",
+                "uid": "bab57fbf9ab96972"
+              },
+              "sku": "2210626"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10920_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 56,
+              "factory_order_multiple": 50,
+              "in_stock_quantity": 2000,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T08:50:52Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1000,
+                    "0.38880"
+                  ],
+                  [
+                    10000,
+                    "0.38880"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0da2fae&sid=27099&ppid=65874927&vpid=262908313&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": false,
+                "homepage_url": "http://epart123.com/",
+                "id": "10920",
+                "name": "Epart123",
+                "uid": "8585408f864b5642"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "1532_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 549,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T13:15:14Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "0.68000"
+                  ],
+                  [
+                    3,
+                    "0.60000"
+                  ],
+                  [
+                    10,
+                    "0.49000"
+                  ],
+                  [
+                    50,
+                    "0.43000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0419359&sid=1532&ppid=65874927&vpid=418684082&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "PL",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.tme.eu/en/",
+                "id": "1532",
+                "name": "TME",
+                "uid": "223ee7340ea4f1f9"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 650,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 50,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 50,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    50,
+                    "0.44850"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=08194a3&sid=27291&ppid=65874927&vpid=459180204&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3561_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": 0,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 550,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T17:12:44Z",
+              "moq": 300,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 50,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    300,
+                    "0.57000"
+                  ],
+                  [
+                    550,
+                    "0.53000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0854e15&sid=11310&ppid=65874927&vpid=417472003&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.nacsemi.com",
+                "id": "3561",
+                "name": "NAC Semi",
+                "uid": "d7281222f3a704ef"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "8169_IRLB8721PBF",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3150,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-05-09T05:24:37Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": "https://octopart.com/rfq/generate?ppid=65874927&vpid=271490317",
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=033c333&sid=20251&ppid=65874927&vpid=271490317&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "IL",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.gtelec.com/",
+                "id": "8169",
+                "name": "GreenTree Electronics",
+                "uid": "a633633990bc75f4"
+              },
+              "sku": "IRLB8721PBF"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_SP001558140",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3957,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-30T23:57:27Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=000d6e5&sid=25917&ppid=65874927&vpid=452273431&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "SP001558140"
+            }
+          ],
+          "redirected_uids": [
+            "751bbca1479daadc",
+            "94ed5e1105f94b2a",
+            "a517688bd2fc7ad0",
+            "e24a2f2cea043d8d"
+          ],
+          "uid": "a7346dd3a9bd78f3"
+        },
+        "snippet": "Transistor: N-MOSFET; unipolar; HEXFET; 30V; 62A; 65W; TO220AB"
+      }
+    ],
+    "spec_metadata": {},
+    "stats_results": {},
+    "user_country": "GR",
+    "user_currency": "EUR"
+  }

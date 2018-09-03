@@ -38,5 +38,5 @@ https://www.npmjs.com/package/hubot-datasheets
 
 ## To-Do List
 - [ ] Handle thrown errors
-- [ ] Functional testing
+- [x] Functional testing
 - [ ] Better behaviour for parts where the default sorting is not correct (e.g. TI CC1120)

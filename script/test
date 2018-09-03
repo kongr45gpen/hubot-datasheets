@@ -3,4 +3,6 @@
 # bootstrap environment
 source script/bootstrap
 
-mocha --compilers coffee:coffee-script --timeout 6000
+export HUBOT_OCTOPART_API_KEY=none
+
+mocha

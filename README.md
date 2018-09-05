@@ -2,7 +2,7 @@
 
 A hubot script that links datasheets for electronic components from [Octopart](https://octopart.com/).
 
-See [`src/datasheets.coffee`](src/datasheets.coffee) for full documentation.
+See [`src/datasheets.js`](src/datasheets.js) for full documentation.
 
 ## Installation
 

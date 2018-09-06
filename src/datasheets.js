@@ -9,15 +9,17 @@
 //
 // Commands:
 //   hubot datasheet <part number> - Link to the datasheet of an electronic part
+//   hubot datasheets <part number> - Link to the datasheets of all the matching parts
 //
 // Examples:
 //   hubot datasheet stm32f103rb
 //   hubot datasheet LM741
-//   hubot datasheet 555
-//   hubot datasheet 5V regulator
+//   hubot datasheets 555
+//   hubot datasheets 5V regulator
 //
 // Author:
 //   kongr45gpen
+
 // The list of acceptable currencies that will be shown for the component's price. First is higher priority.
 const currencies = {
     'EUR': '€',

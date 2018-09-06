@@ -1,7 +1,7 @@
 {
   "name": "hubot-datasheets",
   "description": "A hubot script that fetches electronic component datasheet information from Octopart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "kongr45gpen <electrovesta@gmail.com>",
   "license": "MIT",
   "keywords": [

@@ -1,0 +1,5113 @@
+{
+    "__class__": "SearchResponse",
+    "facet_results": {
+      "fields": {},
+      "queries": {}
+    },
+    "hits": 18,
+    "msec": 221,
+    "request": {
+      "__class__": "SearchRequest",
+      "facet": {
+        "fields": {},
+        "queries": []
+      },
+      "filter": {
+        "fields": {},
+        "queries": []
+      },
+      "limit": 5,
+      "q": "STM32F103RB",
+      "sortby": "score desc",
+      "start": 0,
+      "stats": {}
+    },
+    "results": [
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "80894183ac8c574e"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 1447593
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7-STMicroelectronics-datasheet-10330614.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Factory Futures",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2008-09-23T14:04:32Z",
+                "last_updated": "2008-09-23T12:56:00Z",
+                "num_pages": 84,
+                "size_bytes": 1054162
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7-STMicroelectronics-datasheet-500013.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2015-08-21T09:11:30Z",
+                "last_updated": "2015-08-21T09:15:12Z",
+                "num_pages": 117,
+                "size_bytes": 2006428
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7-STMicroelectronics-datasheet-48026265.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "d294179ef2900153"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-08-05T17:43:44Z",
+                "last_updated": "2013-08-05T15:54:29Z",
+                "num_pages": 105,
+                "size_bytes": 1697666
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7-STMicroelectronics-datasheet-21407612.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "e9a52cafc1a03a62"
+          },
+          "mpn": "STM32F103RBT7",
+          "octopart_url": "https://octopart.com/stm32f103rbt7-stmicroelectronics-13900165",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_497-11526-ND",
+              "eligible_region": "",
+              "factory_lead_days": 77,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 631,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:51:46Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.30000"
+                  ],
+                  [
+                    10,
+                    "5.65500"
+                  ],
+                  [
+                    160,
+                    "4.63300"
+                  ],
+                  [
+                    640,
+                    "3.94400"
+                  ],
+                  [
+                    1120,
+                    "3.32626"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0cb899a&sid=459&ppid=13900165&vpid=39744457&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "497-11526-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V99:2348_17609622",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1006,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.35900"
+                  ],
+                  [
+                    10,
+                    "4.79400"
+                  ],
+                  [
+                    100,
+                    "4.30400"
+                  ],
+                  [
+                    500,
+                    "4.14000"
+                  ],
+                  [
+                    1000,
+                    "3.02190"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=02fa0e0&sid=1106&ppid=13900165&vpid=473423239&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1006,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 10,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    10,
+                    "4.79400"
+                  ],
+                  [
+                    100,
+                    "4.30400"
+                  ],
+                  [
+                    500,
+                    "4.14000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0c76d3b&sid=5489&ppid=13900165&vpid=460227509&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V36:1790_06561429",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 101,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.35900"
+                  ],
+                  [
+                    10,
+                    "4.79400"
+                  ],
+                  [
+                    100,
+                    "4.30400"
+                  ],
+                  [
+                    500,
+                    "4.14000"
+                  ],
+                  [
+                    1000,
+                    "3.02190"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0b3b88d&sid=1106&ppid=13900165&vpid=473423238&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 348,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 12,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    12,
+                    "5.42880"
+                  ],
+                  [
+                    100,
+                    "4.44770"
+                  ],
+                  [
+                    500,
+                    "4.30420"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=076f8ec&sid=5489&ppid=13900165&vpid=274238755&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 103,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 11,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    11,
+                    "4.79400"
+                  ],
+                  [
+                    100,
+                    "4.30400"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0f2a308&sid=5489&ppid=13900165&vpid=470372289&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_511-STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 549,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:45:15Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "8.63000"
+                  ],
+                  [
+                    10,
+                    "7.80000"
+                  ],
+                  [
+                    50,
+                    "7.44000"
+                  ],
+                  [
+                    100,
+                    "6.46000"
+                  ],
+                  [
+                    1000,
+                    "4.90000"
+                  ],
+                  [
+                    10000,
+                    "4.90000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=053d36e&sid=2401&ppid=13900165&vpid=212623788&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "511-STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": 86,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 320,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:55:58Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "6.22000"
+                  ],
+                  [
+                    10,
+                    "5.07000"
+                  ],
+                  [
+                    25,
+                    "4.76000"
+                  ],
+                  [
+                    50,
+                    "4.46000"
+                  ],
+                  [
+                    100,
+                    "4.15000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0316a75&sid=15544&ppid=13900165&vpid=265731318&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:01:07Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 960,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    960,
+                    "3.49000"
+                  ],
+                  [
+                    1920,
+                    "3.29000"
+                  ],
+                  [
+                    3840,
+                    "3.19000"
+                  ],
+                  [
+                    5760,
+                    "2.99000"
+                  ],
+                  [
+                    9600,
+                    "2.99000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0ffc5ff&sid=5822&ppid=13900165&vpid=28370228&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "7667_ICMCU25409",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T01:31:42Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 160,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    960,
+                    "3.65000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    960,
+                    "4.27000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0524aa7&sid=18993&ppid=13900165&vpid=475778627&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rutronik.com",
+                "id": "7667",
+                "name": "Rutronik",
+                "uid": "449e8194700b9759"
+              },
+              "sku": "ICMCU25409"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "819_2215217_GB",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 488,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T05:40:50Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "GBP": [
+                  [
+                    1,
+                    "5.37000"
+                  ],
+                  [
+                    10,
+                    "4.37000"
+                  ],
+                  [
+                    25,
+                    "4.11000"
+                  ],
+                  [
+                    50,
+                    "3.84000"
+                  ],
+                  [
+                    100,
+                    "3.58000"
+                  ],
+                  [
+                    250,
+                    "3.29000"
+                  ],
+                  [
+                    500,
+                    "2.99000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0f81822&sid=819&ppid=13900165&vpid=139691236&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.farnell.com/",
+                "id": "819",
+                "name": "Farnell",
+                "uid": "58989d9272cd8b5f"
+              },
+              "sku": "2215217"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2402_46W2184_US",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 488,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T05:58:59Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "8.63000"
+                  ],
+                  [
+                    10,
+                    "7.80000"
+                  ],
+                  [
+                    25,
+                    "7.44000"
+                  ],
+                  [
+                    50,
+                    "6.95000"
+                  ],
+                  [
+                    100,
+                    "6.46000"
+                  ],
+                  [
+                    250,
+                    "6.17000"
+                  ],
+                  [
+                    500,
+                    "5.62000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0d21a29&sid=2402&ppid=13900165&vpid=76545864&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.newark.com",
+                "id": "2402",
+                "name": "Newark",
+                "uid": "d294179ef2900153"
+              },
+              "sku": "46W2184"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3702_2215217_SG",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 488,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T09:04:51Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "SGD": [
+                  [
+                    1,
+                    "9.90000"
+                  ],
+                  [
+                    10,
+                    "8.89000"
+                  ],
+                  [
+                    100,
+                    "7.28000"
+                  ],
+                  [
+                    500,
+                    "6.20000"
+                  ],
+                  [
+                    1000,
+                    "5.53000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=08a788d&sid=11744&ppid=13900165&vpid=132626492&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.element14.com/",
+                "id": "3702",
+                "name": "element14 APAC",
+                "uid": "7f61ba6b5871aca6"
+              },
+              "sku": "2215217"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 320,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 100,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 160,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    100,
+                    "7.18432"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=08f4078&sid=27291&ppid=13900165&vpid=409659443&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "STM32F103RBT7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4782_1075570",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:16:54Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "11.66000"
+                  ],
+                  [
+                    5,
+                    "11.31000"
+                  ],
+                  [
+                    10,
+                    "11.08000"
+                  ],
+                  [
+                    50,
+                    "10.49000"
+                  ],
+                  [
+                    100,
+                    "9.33000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=05c373e&sid=14587&ppid=13900165&vpid=410999824&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://conrad.com",
+                "id": "4782",
+                "name": "Conrad",
+                "uid": "7914bc1e42dcaad3"
+              },
+              "sku": "1075570"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_STM32F103RBT7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T19:16:21Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=07e1c73&sid=25917&ppid=13900165&vpid=195668160&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "STM32F103RBT7"
+            }
+          ],
+          "redirected_uids": [],
+          "uid": "8d3444eab1d752f3"
+        },
+        "snippet": "32 Bit Microcontroller, Motor Control, ARM Cortex-M3, 72 MHz, 128 KB, 20 KB, 64, LQFP"
+      },
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "80894183ac8c574e"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "TME",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2015-08-21T09:11:30Z",
+                "last_updated": "2015-08-21T09:15:12Z",
+                "num_pages": 117,
+                "size_bytes": 2006428
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-48026265.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2008-09-23T14:04:32Z",
+                "last_updated": "2008-09-23T12:56:00Z",
+                "num_pages": 84,
+                "size_bytes": 1054162
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-500013.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 1447593
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-10330614.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Verical",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2009-09-22T09:33:15Z",
+                "last_updated": "2009-09-22T07:54:20Z",
+                "num_pages": 92,
+                "size_bytes": 1241496
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-8365036.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "element14",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2010-06-04T17:05:07Z",
+                "last_updated": "2010-06-07T15:43:11Z",
+                "num_pages": 96,
+                "size_bytes": 1465319
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-8700640.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2009-04-23T08:43:48Z",
+                "last_updated": "2009-04-23T07:03:33Z",
+                "num_pages": 91,
+                "size_bytes": 1129550
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-6396519.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-08-05T17:43:44Z",
+                "last_updated": "2013-08-05T15:54:29Z",
+                "num_pages": 105,
+                "size_bytes": 1697666
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-21407612.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "TME",
+                    "uid": "223ee7340ea4f1f9"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2010-06-04T17:05:07Z",
+                "last_updated": "2010-11-30T06:51:38Z",
+                "num_pages": 96,
+                "size_bytes": 1471399
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-17594274.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Nu Horizons",
+                    "uid": "1c3ed9343c3fcff9"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2007-11-22T14:02:22Z",
+                "last_updated": "2007-11-22T13:10:05Z",
+                "num_pages": 80,
+                "size_bytes": 1212318
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-148251.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "iiiC",
+                    "uid": "6a80af8a6456b947"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 757339
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-14106724.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "d294179ef2900153"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-05-14T14:27:17Z",
+                "last_updated": "2013-05-14T12:43:49Z",
+                "num_pages": 105,
+                "size_bytes": 1341963
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT6-STMicroelectronics-datasheet-16839800.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "e9a52cafc1a03a62"
+          },
+          "mpn": "STM32F103RBT6",
+          "octopart_url": "https://octopart.com/stm32f103rbt6-stmicroelectronics-41858016",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_497-6066-ND",
+              "eligible_region": "",
+              "factory_lead_days": 77,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3060,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:51:46Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.80000"
+                  ],
+                  [
+                    10,
+                    "6.14300"
+                  ],
+                  [
+                    160,
+                    "5.08544"
+                  ],
+                  [
+                    640,
+                    "4.42834"
+                  ],
+                  [
+                    1120,
+                    "3.85695"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=054444b&sid=459&ppid=41858016&vpid=115260988&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "497-6066-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 316800,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    960,
+                    "4.52200"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0b0a80d&sid=5489&ppid=41858016&vpid=272349130&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2454_5237060",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2863,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:52:37Z",
+              "moq": 5,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    5,
+                    "4.76000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=034a0ad&sid=2454&ppid=41858016&vpid=416911638&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CA",
+                "has_ecommerce": true,
+                "homepage_url": "http://futureelectronics.com",
+                "id": "2454",
+                "name": "Future Electronics",
+                "uid": "e4032109c4f337c4"
+              },
+              "sku": "5237060"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V99:2348_17747858",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 155,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.36900"
+                  ],
+                  [
+                    10,
+                    "4.98400"
+                  ],
+                  [
+                    25,
+                    "4.81300"
+                  ],
+                  [
+                    100,
+                    "4.14100"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=07d2fad&sid=1106&ppid=41858016&vpid=473423237&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1620,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 12,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    12,
+                    "4.56960"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=04ccc2b&sid=5489&ppid=41858016&vpid=409226627&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 923,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 3,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    3,
+                    "9.03970"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0662981&sid=5489&ppid=41858016&vpid=401816472&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 175,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 9,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    9,
+                    "5.36900"
+                  ],
+                  [
+                    10,
+                    "4.98400"
+                  ],
+                  [
+                    25,
+                    "4.81300"
+                  ],
+                  [
+                    100,
+                    "4.14100"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0fe33ef&sid=5489&ppid=41858016&vpid=480632118&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_511-STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 8183,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:45:15Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.80000"
+                  ],
+                  [
+                    10,
+                    "6.15000"
+                  ],
+                  [
+                    50,
+                    "5.86000"
+                  ],
+                  [
+                    100,
+                    "5.09000"
+                  ],
+                  [
+                    1000,
+                    "3.86000"
+                  ],
+                  [
+                    10000,
+                    "3.86000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=010d04b&sid=2401&ppid=41858016&vpid=115231637&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "511-STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3261_402251",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 145,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T11:02:11Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=04f32f7&sid=10022&ppid=41858016&vpid=116327537&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rs-components.com",
+                "id": "3261",
+                "name": "RS Components",
+                "uid": "fbaa3ea0de71286d"
+              },
+              "sku": "402251"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:01:07Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "4.19000"
+                  ],
+                  [
+                    10,
+                    "4.19000"
+                  ],
+                  [
+                    25,
+                    "4.09000"
+                  ],
+                  [
+                    50,
+                    "3.99000"
+                  ],
+                  [
+                    100,
+                    "3.79000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=04964fa&sid=5822&ppid=41858016&vpid=115344061&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "7667_ICMCU17423",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T01:31:42Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    960,
+                    "5.24000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    960,
+                    "6.13000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=080b2d0&sid=18993&ppid=41858016&vpid=115448160&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rutronik.com",
+                "id": "7667",
+                "name": "Rutronik",
+                "uid": "449e8194700b9759"
+              },
+              "sku": "ICMCU17423"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": 72,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 61706,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:55:58Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "6.05000"
+                  ],
+                  [
+                    10,
+                    "5.77000"
+                  ],
+                  [
+                    25,
+                    "5.50000"
+                  ],
+                  [
+                    50,
+                    "4.97000"
+                  ],
+                  [
+                    100,
+                    "4.45000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=09dc6bc&sid=15544&ppid=41858016&vpid=263383898&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "819_1447640_GB",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 13172,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T05:40:50Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "GBP": [
+                  [
+                    1,
+                    "5.10000"
+                  ],
+                  [
+                    10,
+                    "4.91000"
+                  ],
+                  [
+                    25,
+                    "4.71000"
+                  ],
+                  [
+                    50,
+                    "4.52000"
+                  ],
+                  [
+                    100,
+                    "4.09000"
+                  ],
+                  [
+                    250,
+                    "3.91000"
+                  ],
+                  [
+                    500,
+                    "3.24000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0635044&sid=819&ppid=41858016&vpid=139691235&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.farnell.com/",
+                "id": "819",
+                "name": "Farnell",
+                "uid": "58989d9272cd8b5f"
+              },
+              "sku": "1447640"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2402_59M2183_US",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 12779,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T05:58:59Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.80000"
+                  ],
+                  [
+                    10,
+                    "6.15000"
+                  ],
+                  [
+                    25,
+                    "5.86000"
+                  ],
+                  [
+                    50,
+                    "5.48000"
+                  ],
+                  [
+                    100,
+                    "5.09000"
+                  ],
+                  [
+                    250,
+                    "4.86000"
+                  ],
+                  [
+                    500,
+                    "4.43000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=04aa877&sid=2402&ppid=41858016&vpid=115404114&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.newark.com",
+                "id": "2402",
+                "name": "Newark",
+                "uid": "d294179ef2900153"
+              },
+              "sku": "59M2183"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4523_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 4800,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:19:31Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 960,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    960,
+                    "3.66410"
+                  ],
+                  [
+                    1920,
+                    "3.48960"
+                  ],
+                  [
+                    2880,
+                    "3.33100"
+                  ],
+                  [
+                    4800,
+                    "3.18610"
+                  ],
+                  [
+                    9600,
+                    "3.05340"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=02c6619&sid=14182&ppid=41858016&vpid=133222677&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+                "id": "4523",
+                "name": "Avnet Asia",
+                "uid": "8604430ebec955c3"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3702_1447640_SG",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 18241,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T09:04:51Z",
+              "moq": 1,
+              "multipack_quantity": "1",
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "SGD": [
+                  [
+                    1,
+                    "10.41000"
+                  ],
+                  [
+                    10,
+                    "9.42000"
+                  ],
+                  [
+                    25,
+                    "8.97000"
+                  ],
+                  [
+                    100,
+                    "7.80000"
+                  ],
+                  [
+                    250,
+                    "7.45000"
+                  ],
+                  [
+                    500,
+                    "6.79000"
+                  ],
+                  [
+                    1000,
+                    "5.92000"
+                  ],
+                  [
+                    2500,
+                    "5.70000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0dcf83d&sid=11744&ppid=41858016&vpid=132626491&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.element14.com/",
+                "id": "3702",
+                "name": "element14 APAC",
+                "uid": "7f61ba6b5871aca6"
+              },
+              "sku": "1447640"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11779_C8735",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 18390,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T03:17:00Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": "Tray",
+              "prices": {
+                "AUD": [
+                  [
+                    1,
+                    "4.01460"
+                  ],
+                  [
+                    10,
+                    "3.44170"
+                  ],
+                  [
+                    30,
+                    "3.33560"
+                  ],
+                  [
+                    100,
+                    "3.22950"
+                  ],
+                  [
+                    500,
+                    "3.18240"
+                  ],
+                  [
+                    2080,
+                    "3.05510"
+                  ],
+                  [
+                    6080,
+                    "2.99150"
+                  ]
+                ],
+                "CAD": [
+                  [
+                    1,
+                    "3.76400"
+                  ],
+                  [
+                    10,
+                    "3.22680"
+                  ],
+                  [
+                    30,
+                    "3.12740"
+                  ],
+                  [
+                    100,
+                    "3.02790"
+                  ],
+                  [
+                    500,
+                    "2.98380"
+                  ],
+                  [
+                    2080,
+                    "2.86440"
+                  ],
+                  [
+                    6080,
+                    "2.80470"
+                  ]
+                ],
+                "CNY": [
+                  [
+                    1,
+                    "19.69760"
+                  ],
+                  [
+                    10,
+                    "16.88670"
+                  ],
+                  [
+                    30,
+                    "16.36620"
+                  ],
+                  [
+                    100,
+                    "15.84570"
+                  ],
+                  [
+                    500,
+                    "15.61460"
+                  ],
+                  [
+                    2080,
+                    "14.99000"
+                  ],
+                  [
+                    6080,
+                    "14.67770"
+                  ]
+                ],
+                "DKK": [
+                  [
+                    1,
+                    "18.51560"
+                  ],
+                  [
+                    10,
+                    "15.87340"
+                  ],
+                  [
+                    30,
+                    "15.38410"
+                  ],
+                  [
+                    100,
+                    "14.89490"
+                  ],
+                  [
+                    500,
+                    "14.67760"
+                  ],
+                  [
+                    2080,
+                    "14.09050"
+                  ],
+                  [
+                    6080,
+                    "13.79700"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    1,
+                    "2.48370"
+                  ],
+                  [
+                    10,
+                    "2.12930"
+                  ],
+                  [
+                    30,
+                    "2.06360"
+                  ],
+                  [
+                    100,
+                    "1.99800"
+                  ],
+                  [
+                    500,
+                    "1.96890"
+                  ],
+                  [
+                    2080,
+                    "1.89010"
+                  ],
+                  [
+                    6080,
+                    "1.85070"
+                  ]
+                ],
+                "GBP": [
+                  [
+                    1,
+                    "2.22880"
+                  ],
+                  [
+                    10,
+                    "1.91070"
+                  ],
+                  [
+                    30,
+                    "1.85180"
+                  ],
+                  [
+                    100,
+                    "1.79290"
+                  ],
+                  [
+                    500,
+                    "1.76680"
+                  ],
+                  [
+                    2080,
+                    "1.69610"
+                  ],
+                  [
+                    6080,
+                    "1.66080"
+                  ]
+                ],
+                "HKD": [
+                  [
+                    1,
+                    "22.60660"
+                  ],
+                  [
+                    10,
+                    "19.38060"
+                  ],
+                  [
+                    30,
+                    "18.78330"
+                  ],
+                  [
+                    100,
+                    "18.18590"
+                  ],
+                  [
+                    500,
+                    "17.92060"
+                  ],
+                  [
+                    2080,
+                    "17.20380"
+                  ],
+                  [
+                    6080,
+                    "16.84540"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    1,
+                    "319.60900"
+                  ],
+                  [
+                    10,
+                    "273.99970"
+                  ],
+                  [
+                    30,
+                    "265.55480"
+                  ],
+                  [
+                    100,
+                    "257.10980"
+                  ],
+                  [
+                    500,
+                    "253.35900"
+                  ],
+                  [
+                    2080,
+                    "243.22460"
+                  ],
+                  [
+                    6080,
+                    "238.15740"
+                  ]
+                ],
+                "MYR": [
+                  [
+                    1,
+                    "11.86890"
+                  ],
+                  [
+                    10,
+                    "10.17510"
+                  ],
+                  [
+                    30,
+                    "9.86150"
+                  ],
+                  [
+                    100,
+                    "9.54790"
+                  ],
+                  [
+                    500,
+                    "9.40860"
+                  ],
+                  [
+                    2080,
+                    "9.03230"
+                  ],
+                  [
+                    6080,
+                    "8.84410"
+                  ]
+                ],
+                "RUB": [
+                  [
+                    1,
+                    "194.91330"
+                  ],
+                  [
+                    10,
+                    "167.09850"
+                  ],
+                  [
+                    30,
+                    "161.94840"
+                  ],
+                  [
+                    100,
+                    "156.79830"
+                  ],
+                  [
+                    500,
+                    "154.51080"
+                  ],
+                  [
+                    2080,
+                    "148.33040"
+                  ],
+                  [
+                    6080,
+                    "145.24020"
+                  ]
+                ],
+                "SEK": [
+                  [
+                    1,
+                    "26.35660"
+                  ],
+                  [
+                    10,
+                    "22.59550"
+                  ],
+                  [
+                    30,
+                    "21.89900"
+                  ],
+                  [
+                    100,
+                    "21.20260"
+                  ],
+                  [
+                    500,
+                    "20.89330"
+                  ],
+                  [
+                    2080,
+                    "20.05760"
+                  ],
+                  [
+                    6080,
+                    "19.63970"
+                  ]
+                ],
+                "SGD": [
+                  [
+                    1,
+                    "3.95310"
+                  ],
+                  [
+                    10,
+                    "3.38900"
+                  ],
+                  [
+                    30,
+                    "3.28450"
+                  ],
+                  [
+                    100,
+                    "3.18010"
+                  ],
+                  [
+                    500,
+                    "3.13370"
+                  ],
+                  [
+                    2080,
+                    "3.00830"
+                  ],
+                  [
+                    6080,
+                    "2.94560"
+                  ]
+                ],
+                "USD": [
+                  [
+                    1,
+                    "2.88010"
+                  ],
+                  [
+                    10,
+                    "2.46910"
+                  ],
+                  [
+                    30,
+                    "2.39300"
+                  ],
+                  [
+                    100,
+                    "2.31690"
+                  ],
+                  [
+                    500,
+                    "2.28310"
+                  ],
+                  [
+                    2080,
+                    "2.19178"
+                  ],
+                  [
+                    6080,
+                    "2.14611"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=00da9f0&sid=27971&ppid=41858016&vpid=445984468&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://lcsc.com",
+                "id": "11779",
+                "name": "LCSC",
+                "uid": "e3222628e44730e5"
+              },
+              "sku": "C8735"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4089_C1S730200452405",
+              "eligible_region": "",
+              "factory_lead_days": 1,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 923,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:49:29Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "CNY": [
+                  [
+                    1,
+                    "55.91000"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    1,
+                    "6.08000"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    1,
+                    "795.00000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    1,
+                    "7.04000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=03c9469&sid=13512&ppid=41858016&vpid=279945502&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "JP",
+                "has_ecommerce": true,
+                "homepage_url": "http://chip1stop.com/",
+                "id": "4089",
+                "name": "Chip One Stop Japan",
+                "uid": "90be55b4b6214379"
+              },
+              "sku": "C1S730200452405"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10920_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": 56,
+              "factory_order_multiple": 960,
+              "in_stock_quantity": 960,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-03T08:50:52Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    960,
+                    "2.89200"
+                  ],
+                  [
+                    10000,
+                    "2.89200"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a7c15c&sid=27099&ppid=41858016&vpid=439366293&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": false,
+                "homepage_url": "http://epart123.com/",
+                "id": "10920",
+                "name": "Epart123",
+                "uid": "8585408f864b5642"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11923_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 20,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-29T18:11:01Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0d85272&sid=28115&ppid=41858016&vpid=492551993&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "https://www.resion.com/",
+                "id": "11923",
+                "name": "Resion",
+                "uid": "f0823588f7772345"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "1532_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": 42,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1615,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:58:05Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.50000"
+                  ],
+                  [
+                    3,
+                    "5.85000"
+                  ],
+                  [
+                    10,
+                    "5.42000"
+                  ],
+                  [
+                    50,
+                    "4.42000"
+                  ],
+                  [
+                    160,
+                    "3.65000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a849ea&sid=1532&ppid=41858016&vpid=115147956&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "PL",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.tme.eu/en/",
+                "id": "1532",
+                "name": "TME",
+                "uid": "223ee7340ea4f1f9"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4617_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 23,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T09:35:56Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "6.59000"
+                  ],
+                  [
+                    3,
+                    "6.27000"
+                  ],
+                  [
+                    10,
+                    "5.95000"
+                  ],
+                  [
+                    25,
+                    "5.80000"
+                  ],
+                  [
+                    100,
+                    "5.19000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=08f01cf&sid=14389&ppid=41858016&vpid=116570374&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.distrelec.com",
+                "id": "4617",
+                "name": "Distrelec",
+                "uid": "e53d2037de5236fa"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "1532_STM32F103R8T6",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:58:05Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.75000"
+                  ],
+                  [
+                    3,
+                    "6.27000"
+                  ],
+                  [
+                    10,
+                    "5.78000"
+                  ],
+                  [
+                    25,
+                    "5.28000"
+                  ],
+                  [
+                    100,
+                    "4.46000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=03954d0&sid=1532&ppid=41858016&vpid=455156073&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "PL",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.tme.eu/en/",
+                "id": "1532",
+                "name": "TME",
+                "uid": "223ee7340ea4f1f9"
+              },
+              "sku": "STM32F103R8T6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10643_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 111,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T03:57:13Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    111,
+                    "3.85700"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0227184&sid=26822&ppid=41858016&vpid=277476354&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://iodparts.com",
+                "id": "10643",
+                "name": "iodParts",
+                "uid": "558d90875578864a"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "12135_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 10000,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T15:39:43Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0771bb5&sid=28342&ppid=41858016&vpid=499564050&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "HK",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.chip-components.com",
+                "id": "12135",
+                "name": "Chip Components",
+                "uid": "fcf339f9faf22f34"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 9600,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 960,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    960,
+                    "2.10000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=057a0d6&sid=27291&ppid=41858016&vpid=409659442&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3561_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": 0,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 6828,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T16:00:17Z",
+              "moq": 160,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 160,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    160,
+                    "7.93000"
+                  ],
+                  [
+                    6828,
+                    "7.32000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0455ebc&sid=11310&ppid=41858016&vpid=440383189&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.nacsemi.com",
+                "id": "3561",
+                "name": "NAC Semi",
+                "uid": "d7281222f3a704ef"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10930_C1S730201021141",
+              "eligible_region": "",
+              "factory_lead_days": 5,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 960,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T13:57:39Z",
+              "moq": 960,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "CNY": [
+                  [
+                    960,
+                    "53.36000"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    960,
+                    "5.80000"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    960,
+                    "879.00000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    960,
+                    "6.70000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0136133&sid=27109&ppid=41858016&vpid=276882376&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "JP",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.chip1stop.com",
+                "id": "10930",
+                "name": "Chip One Stop Global",
+                "uid": "d2d317d9d1070114"
+              },
+              "sku": "C1S730201021141"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10930_C1S730201023051",
+              "eligible_region": "",
+              "factory_lead_days": 5,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 23,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T13:57:39Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "CNY": [
+                  [
+                    1,
+                    "98.60000"
+                  ],
+                  [
+                    5,
+                    "87.46000"
+                  ],
+                  [
+                    10,
+                    "73.43000"
+                  ]
+                ],
+                "EUR": [
+                  [
+                    1,
+                    "10.70000"
+                  ],
+                  [
+                    5,
+                    "9.51000"
+                  ],
+                  [
+                    10,
+                    "7.99000"
+                  ]
+                ],
+                "JPY": [
+                  [
+                    1,
+                    "1250.00000"
+                  ],
+                  [
+                    5,
+                    "1110.00000"
+                  ],
+                  [
+                    10,
+                    "1060.00000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    1,
+                    "12.40000"
+                  ],
+                  [
+                    5,
+                    "11.00000"
+                  ],
+                  [
+                    10,
+                    "9.24000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=032ae78&sid=27109&ppid=41858016&vpid=271801552&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "JP",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.chip1stop.com",
+                "id": "10930",
+                "name": "Chip One Stop Global",
+                "uid": "d2d317d9d1070114"
+              },
+              "sku": "C1S730201023051"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4782_1075660",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:16:54Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "9.16000"
+                  ],
+                  [
+                    5,
+                    "8.88000"
+                  ],
+                  [
+                    10,
+                    "8.70000"
+                  ],
+                  [
+                    50,
+                    "8.24000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=05c4d8e&sid=14587&ppid=41858016&vpid=410999823&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://conrad.com",
+                "id": "4782",
+                "name": "Conrad",
+                "uid": "7914bc1e42dcaad3"
+              },
+              "sku": "1075660"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4293_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 95,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T17:10:44Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0aafc7c&sid=13909&ppid=41858016&vpid=454627553&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.nstechnology.com",
+                "id": "4293",
+                "name": "NetSource Technology",
+                "uid": "6d39a833549abefe"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2412_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 8,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T22:10:14Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "9.00000"
+                  ],
+                  [
+                    2,
+                    "6.00000"
+                  ],
+                  [
+                    5,
+                    "4.50000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0fe6f5e&sid=2412&ppid=41858016&vpid=469427156&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.questcomp.com",
+                "id": "2412",
+                "name": "Quest",
+                "uid": "b29977939293615e"
+              },
+              "sku": "STM32F103RBT6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_STM32F103RBT6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 231,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T19:16:21Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0d02bb6&sid=25917&ppid=41858016&vpid=195668158&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "STM32F103RBT6"
+            }
+          ],
+          "redirected_uids": [
+            "1a8cd7c3d05dc54b",
+            "1ab0d0cfa3a0c577",
+            "deda17ba5ff2011d"
+          ],
+          "uid": "3580fef4a306ea47"
+        },
+        "snippet": "MCU 32-bit STM32F ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V 64-Pin LQFP Tray"
+      },
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "80894183ac8c574e"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 1447593
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-10330614.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "STMicroelectronics",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2015-08-21T09:11:30Z",
+                "last_updated": "2015-08-21T09:15:12Z",
+                "num_pages": 117,
+                "size_bytes": 2006428
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-48026265.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Factory Futures",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2008-09-23T14:04:32Z",
+                "last_updated": "2008-09-23T12:56:00Z",
+                "num_pages": 84,
+                "size_bytes": 1054162
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-500013.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-08-05T17:43:44Z",
+                "last_updated": "2013-08-05T15:54:29Z",
+                "num_pages": 105,
+                "size_bytes": 1697666
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-21407612.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "iiiC",
+                    "uid": "6a80af8a6456b947"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2012-12-20T08:08:02Z",
+                "last_updated": "2012-12-20T08:08:10Z",
+                "num_pages": 6,
+                "size_bytes": 138725
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-14106722.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-05-14T14:27:17Z",
+                "last_updated": "2013-06-27T08:17:38Z",
+                "num_pages": 105,
+                "size_bytes": 1094116
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH6-STMicroelectronics-datasheet-16809485.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "e9a52cafc1a03a62"
+          },
+          "mpn": "STM32F103RBH6",
+          "octopart_url": "https://octopart.com/stm32f103rbh6-stmicroelectronics-42503596",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_497-11525-ND",
+              "eligible_region": "",
+              "factory_lead_days": 77,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1651,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:51:46Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.80000"
+                  ],
+                  [
+                    10,
+                    "6.14300"
+                  ],
+                  [
+                    100,
+                    "5.08550"
+                  ],
+                  [
+                    640,
+                    "4.42834"
+                  ],
+                  [
+                    1280,
+                    "3.85695"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0dd7f98&sid=459&ppid=42503596&vpid=119680496&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "497-11525-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V99:2348_18297636",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3593,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.14800"
+                  ],
+                  [
+                    10,
+                    "4.82590"
+                  ],
+                  [
+                    100,
+                    "4.08000"
+                  ],
+                  [
+                    500,
+                    "3.58400"
+                  ],
+                  [
+                    1000,
+                    "3.27000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0219b83&sid=1106&ppid=42503596&vpid=473423234&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V36:1790_06561424",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 780,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.14800"
+                  ],
+                  [
+                    10,
+                    "4.82590"
+                  ],
+                  [
+                    100,
+                    "4.08000"
+                  ],
+                  [
+                    500,
+                    "3.58400"
+                  ],
+                  [
+                    1000,
+                    "3.27000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0e03a47&sid=1106&ppid=42503596&vpid=473423233&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3593,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 9,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    9,
+                    "5.14800"
+                  ],
+                  [
+                    10,
+                    "4.82590"
+                  ],
+                  [
+                    100,
+                    "4.08000"
+                  ],
+                  [
+                    500,
+                    "3.58400"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0d289a2&sid=5489&ppid=42503596&vpid=460227504&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 780,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 11,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    11,
+                    "4.82590"
+                  ],
+                  [
+                    100,
+                    "4.08000"
+                  ],
+                  [
+                    500,
+                    "3.58400"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0b34a6e&sid=5489&ppid=42503596&vpid=478126657&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_511-STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:45:15Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.07000"
+                  ],
+                  [
+                    10,
+                    "5.16000"
+                  ],
+                  [
+                    50,
+                    "5.16000"
+                  ],
+                  [
+                    100,
+                    "4.47000"
+                  ],
+                  [
+                    1000,
+                    "3.21000"
+                  ],
+                  [
+                    10000,
+                    "3.05000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0aca461&sid=2401&ppid=42503596&vpid=458625417&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "511-STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": 72,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 6840,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:55:58Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "6.87000"
+                  ],
+                  [
+                    10,
+                    "5.64000"
+                  ],
+                  [
+                    25,
+                    "5.32000"
+                  ],
+                  [
+                    100,
+                    "4.67000"
+                  ],
+                  [
+                    250,
+                    "4.38000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0752f56&sid=15544&ppid=42503596&vpid=265731313&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:01:07Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "5.29000"
+                  ],
+                  [
+                    10,
+                    "4.99000"
+                  ],
+                  [
+                    25,
+                    "4.99000"
+                  ],
+                  [
+                    50,
+                    "4.99000"
+                  ],
+                  [
+                    100,
+                    "4.09000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0a870e0&sid=5822&ppid=42503596&vpid=116711740&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2454_8581969",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:52:37Z",
+              "moq": 5,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    5,
+                    "3.82000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0ea1182&sid=2454&ppid=42503596&vpid=416911632&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CA",
+                "has_ecommerce": true,
+                "homepage_url": "http://futureelectronics.com",
+                "id": "2454",
+                "name": "Future Electronics",
+                "uid": "e4032109c4f337c4"
+              },
+              "sku": "8581969"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4523_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:19:31Z",
+              "moq": 3840,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 3840,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    3840,
+                    "4.58000"
+                  ],
+                  [
+                    7680,
+                    "4.32080"
+                  ],
+                  [
+                    11520,
+                    "4.08930"
+                  ],
+                  [
+                    19200,
+                    "3.88140"
+                  ],
+                  [
+                    38400,
+                    "3.69350"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=02c2389&sid=14182&ppid=42503596&vpid=179024694&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "SG",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+                "id": "4523",
+                "name": "Avnet Asia",
+                "uid": "8604430ebec955c3"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 7680,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 131,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 640,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    131,
+                    "5.47118"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=062b481&sid=27291&ppid=42503596&vpid=416473674&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "12135_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 10000,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T15:39:43Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=068446e&sid=28342&ppid=42503596&vpid=499564044&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "HK",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.chip-components.com",
+                "id": "12135",
+                "name": "Chip Components",
+                "uid": "fcf339f9faf22f34"
+              },
+              "sku": "STM32F103RBH6"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "4782_1075569",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:16:54Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "9.16000"
+                  ],
+                  [
+                    5,
+                    "8.88000"
+                  ],
+                  [
+                    10,
+                    "8.70000"
+                  ],
+                  [
+                    50,
+                    "8.24000"
+                  ],
+                  [
+                    100,
+                    "7.32000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0bd6248&sid=14587&ppid=42503596&vpid=410999822&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://conrad.com",
+                "id": "4782",
+                "name": "Conrad",
+                "uid": "7914bc1e42dcaad3"
+              },
+              "sku": "1075569"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_STM32F103RBH6",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T19:16:21Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0f68d90&sid=25917&ppid=42503596&vpid=195668156&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "STM32F103RBH6"
+            }
+          ],
+          "redirected_uids": [
+            "c7330e997e9a18f4"
+          ],
+          "uid": "8a4e41cc22845589"
+        },
+        "snippet": "MCU 32-bit STM32F ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V 64-Pin TFBGA Tray"
+      },
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "80894183ac8c574e"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 1447593
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH7-STMicroelectronics-datasheet-10330614.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "STMicroelectronics",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2008-09-23T14:04:32Z",
+                "last_updated": "2008-09-23T12:56:00Z",
+                "num_pages": 84,
+                "size_bytes": 1054162
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH7-STMicroelectronics-datasheet-500013.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Farnell",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2015-08-21T09:11:30Z",
+                "last_updated": "2015-08-21T09:15:12Z",
+                "num_pages": 117,
+                "size_bytes": 2006428
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH7-STMicroelectronics-datasheet-48026265.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "element14 APAC",
+                    "uid": "58989d9272cd8b5f"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-05-14T14:27:17Z",
+                "last_updated": "2013-06-27T08:17:38Z",
+                "num_pages": 105,
+                "size_bytes": 1094116
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH7-STMicroelectronics-datasheet-16809485.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Newark",
+                    "uid": "d294179ef2900153"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2013-08-05T17:43:44Z",
+                "last_updated": "2013-08-05T15:54:29Z",
+                "num_pages": 105,
+                "size_bytes": 1697666
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBH7-STMicroelectronics-datasheet-21407612.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "e9a52cafc1a03a62"
+          },
+          "mpn": "STM32F103RBH7",
+          "octopart_url": "https://octopart.com/stm32f103rbh7-stmicroelectronics-21218712",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V36:1790_06561426",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2827,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "3.04190"
+                  ],
+                  [
+                    10,
+                    "3.00190"
+                  ],
+                  [
+                    25,
+                    "2.98000"
+                  ],
+                  [
+                    50,
+                    "2.97500"
+                  ],
+                  [
+                    100,
+                    "2.95800"
+                  ],
+                  [
+                    250,
+                    "2.94200"
+                  ],
+                  [
+                    500,
+                    "2.93100"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=018e05b&sid=1106&ppid=21218712&vpid=484270058&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2827,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 11,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    11,
+                    "3.04200"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0d3b1cb&sid=5489&ppid=21218712&vpid=484269078&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_STM32F103RBH7-ND",
+              "eligible_region": "",
+              "factory_lead_days": 77,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:51:46Z",
+              "moq": 3840,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tray",
+              "prices": {
+                "USD": [
+                  [
+                    3840,
+                    "3.25983"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=027eb30&sid=459&ppid=21218712&vpid=47661286&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "STM32F103RBH7-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_511-STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:45:15Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    10000,
+                    "3.26000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=044a9c8&sid=2401&ppid=21218712&vpid=458625418&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "511-STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "3261_8107538P",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 585,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T11:02:11Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0155cd2&sid=10022&ppid=21218712&vpid=168876096&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rs-components.com",
+                "id": "3261",
+                "name": "RS Components",
+                "uid": "fbaa3ea0de71286d"
+              },
+              "sku": "8107538P"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": 72,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 2151,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:55:58Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1,
+                    "4.49000"
+                  ],
+                  [
+                    10,
+                    "4.09000"
+                  ],
+                  [
+                    25,
+                    "3.99000"
+                  ],
+                  [
+                    50,
+                    "3.79000"
+                  ],
+                  [
+                    100,
+                    "3.69000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0e5e892&sid=15544&ppid=21218712&vpid=265731315&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:01:07Z",
+              "moq": 3840,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 3840,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    3840,
+                    "3.59000"
+                  ],
+                  [
+                    7680,
+                    "3.49000"
+                  ],
+                  [
+                    15360,
+                    "3.29000"
+                  ],
+                  [
+                    23040,
+                    "3.09000"
+                  ],
+                  [
+                    38400,
+                    "3.09000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=045e358&sid=5822&ppid=21218712&vpid=44461441&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "12135_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 10000,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T15:39:43Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=01be687&sid=28342&ppid=21218712&vpid=499564049&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "HK",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.chip-components.com",
+                "id": "12135",
+                "name": "Chip Components",
+                "uid": "fcf339f9faf22f34"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 151,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 114,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    114,
+                    "6.27198"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0a5336a&sid=27291&ppid=21218712&vpid=454193567&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "STM32F103RBH7"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_STM32F103RBH7",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T19:16:21Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0dbb2f4&sid=25917&ppid=21218712&vpid=237377590&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "STM32F103RBH7"
+            }
+          ],
+          "redirected_uids": [],
+          "uid": "1defd5a6fd11c228"
+        },
+        "snippet": "MCU 32-bit STM32F ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V 64-Pin TFBGA Tray"
+      },
+      {
+        "__class__": "SearchResult",
+        "item": {
+          "__class__": "Part",
+          "brand": {
+            "__class__": "Brand",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "80894183ac8c574e"
+          },
+          "datasheets": [
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "STMicroelectronics",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2011-04-19T15:44:08Z",
+                "last_updated": "2011-04-19T15:45:23Z",
+                "num_pages": 99,
+                "size_bytes": 1447593
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7TR-STMicroelectronics-datasheet-10330614.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "STMicroelectronics",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2008-09-23T14:04:32Z",
+                "last_updated": "2008-09-23T12:56:00Z",
+                "num_pages": 84,
+                "size_bytes": 1054162
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7TR-STMicroelectronics-datasheet-500013.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "STMicroelectronics",
+                    "uid": "e9a52cafc1a03a62"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2015-08-21T09:11:30Z",
+                "last_updated": "2015-08-21T09:15:12Z",
+                "num_pages": 117,
+                "size_bytes": 2006428
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7TR-STMicroelectronics-datasheet-48026265.pdf"
+            },
+            {
+              "__class__": "Datasheet",
+              "attribution": {
+                "__class__": "Attribution",
+                "first_acquired": null,
+                "sources": [
+                  {
+                    "__class__": "Source",
+                    "name": "Arrow Electronics, Inc.",
+                    "uid": "9d5b5851b06f4e9c"
+                  }
+                ]
+              },
+              "metadata": {
+                "date_created": "2010-06-04T17:05:07Z",
+                "last_updated": "2010-06-07T15:43:11Z",
+                "num_pages": 96,
+                "size_bytes": 1465319
+              },
+              "mimetype": "application/pdf",
+              "url": "http://datasheet.octopart.com/STM32F103RBT7TR-STMicroelectronics-datasheet-8700640.pdf"
+            }
+          ],
+          "manufacturer": {
+            "__class__": "Manufacturer",
+            "homepage_url": "http://www.st.com",
+            "name": "STMicroelectronics",
+            "uid": "e9a52cafc1a03a62"
+          },
+          "mpn": "STM32F103RBT7TR",
+          "octopart_url": "https://octopart.com/stm32f103rbt7tr-stmicroelectronics-17588389",
+          "offers": [
+            {
+              "__class__": "PartOffer",
+              "_custom": {
+                "item_id": "V79:2366_17781908",
+                "source_code": "ACNA"
+              },
+              "_naive_id": "1106_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 45,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T15:24:20Z",
+              "moq": 1,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "8.19200"
+                  ],
+                  [
+                    10,
+                    "7.42700"
+                  ],
+                  [
+                    25,
+                    "6.74700"
+                  ],
+                  [
+                    100,
+                    "6.48200"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0c13ee5&sid=1106&ppid=17588389&vpid=473423240&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.arrownac.com/",
+                "id": "1106",
+                "name": "Arrow Electronics, Inc.",
+                "uid": "9d5b5851b06f4e9c"
+              },
+              "sku": "STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2617_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 45,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T17:46:34Z",
+              "moq": 7,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    7,
+                    "8.19200"
+                  ],
+                  [
+                    10,
+                    "7.42700"
+                  ],
+                  [
+                    25,
+                    "6.74700"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=046bc46&sid=5489&ppid=17588389&vpid=462261346&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.verical.com",
+                "id": "2617",
+                "name": "Verical",
+                "uid": "504e954473118389"
+              },
+              "sku": "STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "459_STM32F103RBT7TR-ND",
+              "eligible_region": "",
+              "factory_lead_days": 77,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-05T12:51:46Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": "Tape & Reel",
+              "prices": {
+                "USD": [
+                  [
+                    1000,
+                    "3.32626"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=089d77d&sid=459&ppid=17588389&vpid=33910798&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.digikey.com",
+                "id": "459",
+                "name": "Digi-Key",
+                "uid": "2c3be9310496fffc"
+              },
+              "sku": "STM32F103RBT7TR-ND"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "7667_ICMCU22399",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 3000,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T01:31:42Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1000,
+                    "3.72000"
+                  ]
+                ],
+                "USD": [
+                  [
+                    1000,
+                    "4.35000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0801866&sid=18993&ppid=17588389&vpid=108184523&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "DE",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.rutronik.com",
+                "id": "7667",
+                "name": "Rutronik",
+                "uid": "449e8194700b9759"
+              },
+              "sku": "ICMCU22399"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2401_511-STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T02:45:15Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1,
+                    "6.29000"
+                  ],
+                  [
+                    10,
+                    "5.35000"
+                  ],
+                  [
+                    50,
+                    "5.35000"
+                  ],
+                  [
+                    100,
+                    "4.64000"
+                  ],
+                  [
+                    1000,
+                    "3.33000"
+                  ],
+                  [
+                    10000,
+                    "3.16000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=043b627&sid=2401&ppid=17588389&vpid=482539176&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.mouser.com",
+                "id": "2401",
+                "name": "Mouser",
+                "uid": "a5e060ea85e77627"
+              },
+              "sku": "511-STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "5347_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": 86,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 1000,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T06:55:58Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {
+                "EUR": [
+                  [
+                    1000,
+                    "4.69000"
+                  ],
+                  [
+                    2000,
+                    "4.49000"
+                  ],
+                  [
+                    4000,
+                    "4.39000"
+                  ],
+                  [
+                    6000,
+                    "3.99000"
+                  ],
+                  [
+                    10000,
+                    "3.79000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0638fe4&sid=15544&ppid=17588389&vpid=265731319&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "EU",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+                "id": "5347",
+                "name": "Avnet Europe",
+                "uid": "9416511ca99347d1"
+              },
+              "sku": "STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "2628_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": 70,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 0,
+              "is_authorized": true,
+              "is_realtime": false,
+              "last_updated": "2018-09-06T00:01:07Z",
+              "moq": 1000,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    1000,
+                    "3.49000"
+                  ],
+                  [
+                    2000,
+                    "3.29000"
+                  ],
+                  [
+                    4000,
+                    "3.19000"
+                  ],
+                  [
+                    6000,
+                    "2.99000"
+                  ],
+                  [
+                    10000,
+                    "2.99000"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?c=1&ak=none&sig=0ca220a&sid=5822&ppid=17588389&vpid=28660018&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "homepage_url": "http://avnetexpress.avnet.com",
+                "id": "2628",
+                "name": "Avnet",
+                "uid": "3667f36d1545e5a0"
+              },
+              "sku": "STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "11104_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": 0,
+              "in_stock_quantity": 1000,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-08-31T01:48:28Z",
+              "moq": 91,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": 1000,
+              "packaging": null,
+              "prices": {
+                "USD": [
+                  [
+                    91,
+                    "7.82425"
+                  ]
+                ]
+              },
+              "product_url": "https://octopart.com/click/track?ak=none&sig=0aca224&sid=27291&ppid=17588389&vpid=440742853&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "CN",
+                "has_ecommerce": true,
+                "homepage_url": "http://www.ameya360.com/",
+                "id": "11104",
+                "name": "Ameya360",
+                "uid": "6c5ca9566e5abf9b"
+              },
+              "sku": "STM32F103RBT7TR"
+            },
+            {
+              "__class__": "PartOffer",
+              "_custom": {},
+              "_naive_id": "10079_STM32F103RBT7TR",
+              "eligible_region": "",
+              "factory_lead_days": null,
+              "factory_order_multiple": null,
+              "in_stock_quantity": 4065,
+              "is_authorized": false,
+              "is_realtime": false,
+              "last_updated": "2018-09-04T19:16:21Z",
+              "moq": null,
+              "multipack_quantity": null,
+              "octopart_rfq_url": null,
+              "on_order_eta": null,
+              "on_order_quantity": null,
+              "order_multiple": null,
+              "packaging": null,
+              "prices": {},
+              "product_url": "https://octopart.com/click/track?ak=none&sig=081a37d&sid=25917&ppid=17588389&vpid=195668161&ct=offers",
+              "seller": {
+                "__class__": "Seller",
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "homepage_url": "http://www.abacuselect.com/",
+                "id": "10079",
+                "name": "Abacus Technologies",
+                "uid": "ab926e98a5ab7855"
+              },
+              "sku": "STM32F103RBT7TR"
+            }
+          ],
+          "redirected_uids": [],
+          "uid": "2a97e2916f54f550"
+        },
+        "snippet": "MCU 32-bit STM32F ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V 64-Pin LQFP T/R"
+      }
+    ],
+    "spec_metadata": {},
+    "stats_results": {},
+    "user_country": "GR",
+    "user_currency": "EUR"
+  }
